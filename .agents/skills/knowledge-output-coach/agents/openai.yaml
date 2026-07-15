@@ -1,0 +1,4 @@
+interface:
+  display_name: "Knowledge Output Coach"
+  short_description: "Guide ongoing learning into personal output"
+  default_prompt: "Use $knowledge-output-coach to help me learn this topic through checkpoints, questions, and my own output."
